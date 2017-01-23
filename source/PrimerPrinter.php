@@ -1,8 +1,8 @@
 <?php
 
-class PrintPrimes
+class PrimerPrinter
 {
-    public function main()
+    public function printPrimes()
     {
         define('M', 1000);
         define('RR', 50);

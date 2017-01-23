@@ -1,6 +1,6 @@
 <?php
 
-class PrintPrimesTest extends PHPUnit_Framework_TestCase
+class PrimePrinterTest extends PHPUnit_Framework_TestCase
 {
     /**
      * @test
