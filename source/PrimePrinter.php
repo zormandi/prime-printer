@@ -1,6 +1,6 @@
 <?php
 
-class PrimerPrinter
+class PrimePrinter
 {
     public function printPrimes()
     {
