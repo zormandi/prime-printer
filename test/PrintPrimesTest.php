@@ -8,5 +8,6 @@ class PrintPrimesTest extends PHPUnit_Framework_TestCase
     public function test()
     {
         // Happy refactoring!
+        $this->assertTrue(false);
     }
 }
