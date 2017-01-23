@@ -10,8 +10,8 @@ class PrimePrinter
         define('WW', 10);
         define('ORDMAX', 30);
 
-        $P[] = array_fill(1, M, 0);
-        $MULT[] = array_fill(2, ORDMAX - 1, 0);
+        $P = array_fill(1, M, 0);
+        $MULT = array_fill(2, ORDMAX - 1, 0);
 
         $J = 1;
         $K = 1;
